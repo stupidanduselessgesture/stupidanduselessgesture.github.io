@@ -1,0 +1,10 @@
+FEDERATION_SERVER="https://api.stellar.org/federation"
+
+[[CURRENCIES]]
+code="TAP"
+issuer="GB3CBZJBV65ENAAS6FWKDUMFJOPDVMMP5OZOJEK7BV2R5HQHAHJTXJQL"
+display_decimals=7
+name="ThoughtsAndPrayers"
+desc="TP for your crypto"
+conditions="There will only be an indeterminate number in circulation."
+image="https://stupidanduselessgesture.com/public/images/tap.png"
